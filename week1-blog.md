@@ -53,3 +53,7 @@ Root account = account administration only. MFA on everything. Budget alerts are
 Week 2 coming up — will be covering Git workflows, Python fundamentals, and deeper AWS services.
 
 AWS IAM DevOps Networking macOS CloudEngineerAcademy 100DaysOfCloud
+
+## What's coming in Week 2
+
+Next week I'll be covering Git workflows, Python fundamentals, and deeper AWS services. Stay tuned.
